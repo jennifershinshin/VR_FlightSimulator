@@ -1,0 +1,1695 @@
+fileFormatVersion: 2
+guid: fdcb18cade3d960488979b64730e65d0
+timeCreated: 1469201025
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: exaust scale bone
+    100002: exaust scale bone_end
+    100004: front wheel bone
+    100006: front wheel bone_end
+    100008: front wheel left door bone
+    100010: front wheel left door bone_end
+    100012: front wheel right door bone
+    100014: front wheel right door bone_end
+    100016: left riser bone
+    100018: left riser bone_end
+    100020: left rudder bone
+    100022: left rudder bone_end
+    100024: left wheel bone
+    100026: left wheel bone_end
+    100028: left yaw bone
+    100030: left yaw bone_end
+    100032: main body bone
+    100034: main body bone_end
+    100036: right riser bone
+    100038: right riser bone_end
+    100040: right rudder bone
+    100042: right rudder bone_end
+    100044: right wheel bone
+    100046: right wheel bone_end
+    100048: right yaw bone
+    100050: right yaw bone_end
+    100052: //RootNode
+    100054: SPARTA PLANE ARMATURE
+    100056: SPARTA PLANE BODY
+    100058: weapons door left obne
+    100060: weapons door left obne_end
+    100062: weapons door right bone
+    100064: weapons door right bone_end
+    400000: exaust scale bone
+    400002: exaust scale bone_end
+    400004: front wheel bone
+    400006: front wheel bone_end
+    400008: front wheel left door bone
+    400010: front wheel left door bone_end
+    400012: front wheel right door bone
+    400014: front wheel right door bone_end
+    400016: left riser bone
+    400018: left riser bone_end
+    400020: left rudder bone
+    400022: left rudder bone_end
+    400024: left wheel bone
+    400026: left wheel bone_end
+    400028: left yaw bone
+    400030: left yaw bone_end
+    400032: main body bone
+    400034: main body bone_end
+    400036: right riser bone
+    400038: right riser bone_end
+    400040: right rudder bone
+    400042: right rudder bone_end
+    400044: right wheel bone
+    400046: right wheel bone_end
+    400048: right yaw bone
+    400050: right yaw bone_end
+    400052: //RootNode
+    400054: SPARTA PLANE ARMATURE
+    400056: SPARTA PLANE BODY
+    400058: weapons door left obne
+    400060: weapons door left obne_end
+    400062: weapons door right bone
+    400064: weapons door right bone_end
+    4300000: SPARTA PLANE BODY
+    7400000: SPARTA PLANE ARMATUREWHOLE ANIMATION
+    7400002: SPARTA PLANE ARMATURE|SPARTA PLANE BODYAction
+    7400004: SPARTA PLANE BODY|SPARTA PLANE BODYAction
+    7400006: SPARTA PLANE WHEEL CLOSE TO OPEN
+    7400008: SPARTA PLANE WHEEL OPEN TO CLOSE
+    7400010: SPARTA PLANE PITCH UP
+    7400012: SPARTA PLANE PITCH DOWN
+    7400014: SPARTA PLANE ROLL RIGHT
+    7400016: SPARTA PLANE ROLL LEFT
+    7400018: SPARTA PLANE YAW LEFT
+    7400020: SPARTA PLANEYAW RIGHT
+    7400022: SPARTA PLANE EXAUST OC
+    7400024: SPARTA PLANE EXAUST CO
+    7400026: SPARTA PLANE IDLE GLIDE
+    7400028: SPARTA PLANE WEAPONS DOOR CO
+    7400030: SPARTA PLANE WEAPONS DOOR OC
+    7400032: SPARTA PLANE SLOW FLY FLAPS DOWN
+    7400034: SPARTA PLANE IDLE FOR SLOW SPEED LOW FLAPS
+    7400036: SPARTA PLANE YAW CENTER
+    9500000: //RootNode
+    13700000: SPARTA PLANE BODY
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SPARTA PLANE ARMATUREWHOLE ANIMATION
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 0
+      lastFrame: 227
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 1
+      - path: SPARTA PLANE BODY
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE WHEEL CLOSE TO OPEN
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE WHEEL OPEN TO CLOSE
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 20
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE PITCH UP
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 50
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE PITCH DOWN
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 62
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE ROLL RIGHT
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 80
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE ROLL LEFT
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 100
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE YAW LEFT
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 130
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANEYAW RIGHT
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 145
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE EXAUST OC
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 160
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE EXAUST CO
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 180
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE IDLE GLIDE
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 44
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE WEAPONS DOOR CO
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 210
+      lastFrame: 217
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 1
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE WEAPONS DOOR OC
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 220
+      lastFrame: 227
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 1
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE SLOW FLY FLAPS DOWN
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 50
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA PLANE YAW CENTER
+      takeName: SPARTA PLANE ARMATURE|SPARTA PLANE ARMATUREAction.002
+      firstFrame: 44
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SPARTA PLANE ARMATURE
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/exaust scale bone/exaust scale bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel bone/front wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel left door bone/front wheel left door
+          bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/front wheel right door bone/front wheel right
+          door bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left riser bone/left riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left rudder bone/left rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left wheel bone/left wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/left yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/left yaw bone/left yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/main body bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/main body bone/main body bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right riser bone/right riser bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right rudder bone/right rudder bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right wheel bone/right wheel bone_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/right yaw bone
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/right yaw bone/right yaw bone_end
+        weight: 1
+      - path: SPARTA PLANE ARMATURE/weapons door left obne
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door left obne/weapons door left obne_end
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone
+        weight: 0
+      - path: SPARTA PLANE ARMATURE/weapons door right bone/weapons door right bone_end
+        weight: 0
+      - path: SPARTA PLANE BODY
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

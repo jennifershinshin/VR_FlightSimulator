@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 776c318617743b04289ed88ab69b5053
+timeCreated: 1467037707
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: gun hold bone
+    100002: gun hold bone_end
+    100004: gun mount bone
+    100006: left inner handle bone
+    100008: left outer handle bone
+    100010: left outer handle bone_end
+    100012: left rail arm bone
+    100014: left rail bone
+    100016: left rail bone_end
+    100018: Point
+    100020: right inner handle bone
+    100022: right outer handle bone
+    100024: right outer handle bone_end
+    100026: right rail arm bone
+    100028: right rail bone
+    100030: right rail bone_end
+    100032: //RootNode
+    100034: SPARTA CANNON ARMATURE
+    100036: SPARTA CANNON MODEL
+    100038: whole gun bone
+    400000: gun hold bone
+    400002: gun hold bone_end
+    400004: gun mount bone
+    400006: left inner handle bone
+    400008: left outer handle bone
+    400010: left outer handle bone_end
+    400012: left rail arm bone
+    400014: left rail bone
+    400016: left rail bone_end
+    400018: Point
+    400020: right inner handle bone
+    400022: right outer handle bone
+    400024: right outer handle bone_end
+    400026: right rail arm bone
+    400028: right rail bone
+    400030: right rail bone_end
+    400032: //RootNode
+    400034: SPARTA CANNON ARMATURE
+    400036: SPARTA CANNON MODEL
+    400038: whole gun bone
+    4300000: SPARTA CANNON MODEL
+    7400000: SPARTA CANNON OPENING
+    7400002: SPARTA CANNON STAYED CLOSE
+    9500000: //RootNode
+    13700000: SPARTA CANNON MODEL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SPARTA CANNON OPENING
+      takeName: SPARTA CANNON ARMATURE|SPARTA CANNON ARMATUREAction
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: SPARTA CANNON ARMATURE
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun hold bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun hold bone/gun hold bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone/left rail arm bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone/left rail arm bone/left rail bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone/left rail arm bone/left rail bone/left rail bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left outer handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left outer handle
+          bone/left outer handle bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone/right rail arm bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone/right rail arm bone/right rail bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone/right rail arm bone/right rail bone/right rail bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right outer handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right outer handle
+          bone/right outer handle bone_end
+        weight: 1
+      - path: SPARTA CANNON MODEL
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPARTA CANNON STAYED CLOSE
+      takeName: SPARTA CANNON ARMATURE|SPARTA CANNON ARMATUREAction
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: SPARTA CANNON ARMATURE
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun hold bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun hold bone/gun hold bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone/left rail arm bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone/left rail arm bone/left rail bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left inner handle
+          bone/left rail arm bone/left rail bone/left rail bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left outer handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/left outer handle
+          bone/left outer handle bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone/right rail arm bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone/right rail arm bone/right rail bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right inner handle
+          bone/right rail arm bone/right rail bone/right rail bone_end
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right outer handle
+          bone
+        weight: 1
+      - path: SPARTA CANNON ARMATURE/gun mount bone/whole gun bone/right outer handle
+          bone/right outer handle bone_end
+        weight: 1
+      - path: SPARTA CANNON MODEL
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
