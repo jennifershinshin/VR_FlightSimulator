@@ -2,7 +2,7 @@
 # Flight Simulator
 
 Play the game here! - https://jennifershinshin.itch.io/vr-flightsimulator
-*WARNING: May cause nausea*
+(*WARNING: May cause nausea*)
 
 This was one of our labs for my Virtual Reality class! We had to build a flight simulator to give us a better understanding of yaw, pitch, and roll in VR.
 
